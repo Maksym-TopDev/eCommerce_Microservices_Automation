@@ -25,7 +25,7 @@ Aurapan is a beautiful women's clothing e-commerce website built with **microser
 - [Usage](#usage)
 - [Installation](#installation)
 - [Setup Kubernetes Secret](#setup-kubernetes-secret)
-- [Deployment](#deployment)
+- [Deployment](#deployment) 
 - [Technology](#technology)
 - [Disclaimer](#disclaimer)
 
